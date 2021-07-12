@@ -1,0 +1,8 @@
+﻿  esUtil_win32.c
+  esUtil_TGA.c
+  esUtil.c
+  esTransform.c
+  esShapes.c
+  esShader.c
+  Generating Code...
+  esUtil.vcxproj -> C:\tuan.buiminh\SVN\FrameworkC++\common\lib\esUtil_d.lib
